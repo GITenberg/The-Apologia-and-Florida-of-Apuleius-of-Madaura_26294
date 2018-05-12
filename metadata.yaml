@@ -1,0 +1,38 @@
+_repo: The-Apologia-and-Florida-of-Apuleius-of-Madaura_26294
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Butler, Harold Edgeworth
+    alias: Butler, H. E. (Harold Edgeworth)
+    birthdate: 1878
+    deathdate: 1951
+    gutenberg_agent_id: '3006'
+    url: http://www.gutenberg.org/2009/agents/3006
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Apuleius
+    aliases:
+    - Apuleius Platonicus Madaurensis
+    - Apuleius, Lucius
+    gutenberg_agent_id: '685'
+    url: http://www.gutenberg.org/2009/agents/685
+    wikipedia: http://en.wikipedia.org/wiki/Apuleius
+description: ''
+gutenberg_issued: '2008-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26294'
+  lccn: 09032668
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Speeches, addresses, etc., Latin -- Translations into English'
+- !lcsh 'Apuleius -- Translations into English'
+- !lcc 'PA'
+title: The Apologia and Florida of Apuleius of Madaura
+url: http://www.gutenberg.org/ebooks/26294
