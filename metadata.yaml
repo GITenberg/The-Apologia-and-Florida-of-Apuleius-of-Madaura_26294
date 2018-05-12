@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/685
     wikipedia: http://en.wikipedia.org/wiki/Apuleius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26294#The-Apologia-and-Florida-of-Apuleius-of-Madaura
 gutenberg_issued: '2008-08-13'
 gutenberg_type: Text
 identifiers:
